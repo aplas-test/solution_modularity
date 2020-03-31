@@ -1,20 +1,24 @@
 {
-  "id": "solution_modularity",
-  "name": "Solution Modularity",
-  "categoryId": "administration",
-  "description": "Assimilated multi-state protocol",
-  "investment_24m": "476",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "74",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "256",
-  "deployment_date": "19/6/06",
-  "end_of_maintenance": "8/10/17",
-  "department": "Marketing",
-  "status": "Decomissioned",
-  "end_of_life": "14/4/19",
-  "months_to_renew_support": "9",
-  "sme_email": "Yettie.Scorer@memento.net.au",
-  "investment_number": "146"
+  "applications": [
+    {
+      "id": "solution_modularity",
+      "name": "Solution Modularity",
+      "categoryId": "administration",
+      "description": "Assimilated multi-state protocol",
+      "investment_24m": "476",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "74",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "256",
+      "deployment_date": "19/6/06",
+      "end_of_maintenance": "8/10/17",
+      "department": "Marketing",
+      "status": "Decomissioned",
+      "end_of_life": "14/4/19",
+      "months_to_renew_support": "9",
+      "sme_email": "Yettie.Scorer@memento.net.au",
+      "investment_number": "146"
+    }
+  ]
 }
