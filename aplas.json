@@ -9,23 +9,22 @@
       "description": "Assimilated multi-state protocol",
       "categoryId": "administration",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "74",
       "status_color": "#FF0000",
       "department": "Marketing",
       "hostedtype": "OnPremise",
       "deployment_date": "19/6/06",
-      "investment_number": "146",
+      "investment_number": 146,
       "type": "InHouseDev",
       "sme_email": "Yettie.Scorer@memento.net.au",
       "investment_24m": "476",
       "support_cost": "256",
       "end_of_life": "14/4/19",
-      "months_to_renew_support": "9",
+      "months_to_renew_support": 9,
       "end_of_maintenance": "8/10/17",
       "integrations": [
         {
-          "assetId": "int-316",
+          "id": "int-316",
           "name": "INT-316",
           "shortName": null,
           "version": "6.8.7",
@@ -33,7 +32,6 @@
           "payload": "Product Price",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Flem Mungan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -46,7 +44,7 @@
           "golive_date": "28/8/07"
         },
         {
-          "assetId": "int-426",
+          "id": "int-426",
           "name": "INT-426",
           "shortName": null,
           "version": "0.48",
@@ -54,7 +52,6 @@
           "payload": "Customer",
           "targetApplicationId": "social_innovation",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Guenna Kix",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -67,7 +64,7 @@
           "golive_date": "25/1/17"
         },
         {
-          "assetId": "int-096",
+          "id": "int-096",
           "name": "INT-096",
           "shortName": null,
           "version": "8.2",
@@ -75,7 +72,6 @@
           "payload": "Return - Vendor",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -88,7 +84,7 @@
           "golive_date": "30/10/09"
         },
         {
-          "assetId": "int-109",
+          "id": "int-109",
           "name": "INT-109",
           "shortName": null,
           "version": "1.65",
@@ -96,7 +92,6 @@
           "payload": "Vendor Product",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Myranda McChruiter",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -109,7 +104,7 @@
           "golive_date": "14/7/06"
         },
         {
-          "assetId": "int-347",
+          "id": "int-347",
           "name": "INT-347",
           "shortName": null,
           "version": "2.74",
@@ -117,7 +112,6 @@
           "payload": "Sales (Store Sales / Flybuys)",
           "targetApplicationId": "visibility_agile",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -130,7 +124,7 @@
           "golive_date": "12/3/12"
         },
         {
-          "assetId": "int-500",
+          "id": "int-500",
           "name": "INT-500",
           "shortName": null,
           "version": "0.36",
@@ -138,7 +132,6 @@
           "payload": "Weekly Sales",
           "targetApplicationId": "social_innovation",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#FFFF02",
           "department": "System Control",
